@@ -1,0 +1,193 @@
+{
+  "Shipsy": {
+    "url": "https://www.shipsy.ai",
+    "mediaRequests": [
+      {
+        "url": "https://www.shipsy.ai/assets/videos/hero.mp4",
+        "status": 206,
+        "contentType": "video/mp4",
+        "contentLength": "8934357"
+      }
+    ],
+    "dom": {
+      "videoCount": 1,
+      "videos": [
+        {
+          "src": "https://www.shipsy.ai/assets/videos/hero.mp4",
+          "poster": "https://www.shipsy.ai/assets/videos/hero-poster.jpg",
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "playsInline": true,
+          "rect": {
+            "width": 1425,
+            "height": 1113.734375,
+            "top": 64,
+            "left": 0
+          },
+          "zIndex": "0",
+          "position": "absolute",
+          "mixBlendMode": "normal",
+          "opacity": "1",
+          "parentZIndex": "auto",
+          "parentMixBlendMode": "normal",
+          "isHeroOrBackground": true
+        }
+      ],
+      "canvasCount": 0,
+      "canvases": [],
+      "heroBgSnippet": "rgb(7, 12, 24) none repeat scroll 0% 0% / auto padding-box border-box"
+    }
+  },
+  "Raft Home": {
+    "url": "https://raft.ai",
+    "mediaRequests": [],
+    "dom": {
+      "videoCount": 3,
+      "videos": [
+        {
+          "src": "https://framerusercontent.com/assets/JaHpZPAdAsZWuSwHK572KwAU.mp4",
+          "poster": "https://framerusercontent.com/images/6JZlkwzudigZ7Xx6vC76A7zt8.webp?width=648&height=792",
+          "autoplay": false,
+          "loop": true,
+          "muted": true,
+          "playsInline": true,
+          "rect": {
+            "width": 432,
+            "height": 500,
+            "top": 5547.234375,
+            "left": 40
+          },
+          "zIndex": "auto",
+          "position": "static",
+          "mixBlendMode": "normal",
+          "opacity": "1",
+          "parentZIndex": "auto",
+          "parentMixBlendMode": "normal",
+          "isHeroOrBackground": false
+        },
+        {
+          "src": "https://framerusercontent.com/assets/ALuqUIgUp3psEmvDCUytzG0s.mp4",
+          "poster": "https://framerusercontent.com/images/hm8ardBUb07z7kJXBAPKT2NhW4.webp?width=648&height=792",
+          "autoplay": false,
+          "loop": true,
+          "muted": true,
+          "playsInline": true,
+          "rect": {
+            "width": 432,
+            "height": 500,
+            "top": 5547.234375,
+            "left": 504
+          },
+          "zIndex": "auto",
+          "position": "static",
+          "mixBlendMode": "normal",
+          "opacity": "1",
+          "parentZIndex": "auto",
+          "parentMixBlendMode": "normal",
+          "isHeroOrBackground": false
+        },
+        {
+          "src": "https://framerusercontent.com/assets/jPjtv3KyhXK6XIXhtPZhk4bXgGE.mp4",
+          "poster": "https://framerusercontent.com/images/xFK1j8ApBseSUnmEFdzAMUcDJRc.webp?width=648&height=792",
+          "autoplay": false,
+          "loop": true,
+          "muted": true,
+          "playsInline": true,
+          "rect": {
+            "width": 432,
+            "height": 500,
+            "top": 5547.234375,
+            "left": 968
+          },
+          "zIndex": "auto",
+          "position": "static",
+          "mixBlendMode": "normal",
+          "opacity": "1",
+          "parentZIndex": "auto",
+          "parentMixBlendMode": "normal",
+          "isHeroOrBackground": false
+        }
+      ],
+      "canvasCount": 0,
+      "canvases": [],
+      "heroBgSnippet": "rgb(242, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box"
+    }
+  },
+  "Raft Platform": {
+    "url": "https://raft.ai/platform",
+    "mediaRequests": [],
+    "dom": {
+      "videoCount": 0,
+      "videos": [],
+      "canvasCount": 0,
+      "canvases": [],
+      "heroBgSnippet": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+    }
+  },
+  "Raft Freight Forwarding": {
+    "url": "https://raft.ai/freight-forwarding",
+    "mediaRequests": [],
+    "dom": {
+      "videoCount": 0,
+      "videos": [],
+      "canvasCount": 0,
+      "canvases": [],
+      "heroBgSnippet": "rgb(243, 242, 237) none repeat scroll 0% 0% / auto padding-box border-box"
+    }
+  },
+  "Mercury": {
+    "url": "https://mercury.com",
+    "mediaRequests": [
+      {
+        "url": "https://mercury.com/videos/hero/hero-scrub-lg.mp4",
+        "status": 206,
+        "contentType": "video/mp4",
+        "contentLength": "4793016"
+      }
+    ],
+    "dom": {
+      "videoCount": 1,
+      "videos": [
+        {
+          "src": "https://mercury.com/videos/hero/hero-scrub-lg.mp4",
+          "poster": "",
+          "autoplay": false,
+          "loop": false,
+          "muted": true,
+          "playsInline": true,
+          "rect": {
+            "width": 1440,
+            "height": 900,
+            "top": 0,
+            "left": 0
+          },
+          "zIndex": "auto",
+          "position": "absolute",
+          "mixBlendMode": "normal",
+          "opacity": "1",
+          "parentZIndex": "auto",
+          "parentMixBlendMode": "normal",
+          "isHeroOrBackground": true
+        }
+      ],
+      "canvasCount": 1,
+      "canvases": [
+        {
+          "rect": {
+            "width": 148.5,
+            "height": 44,
+            "top": -2,
+            "left": -2
+          },
+          "zIndex": "auto",
+          "position": "static",
+          "mixBlendMode": "normal",
+          "opacity": "1",
+          "isHeroOrBackground": true
+        }
+      ],
+      "heroBgSnippet": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+    }
+  }
+}
